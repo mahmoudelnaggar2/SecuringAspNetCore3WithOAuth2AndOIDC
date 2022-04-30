@@ -1,0 +1,10 @@
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.AssemblyReference.cache
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+D:\MyFiles\Training_Resource\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb
